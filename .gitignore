@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+joint_angle_3d_palm_rl/runs/
+joint_angle_3d_palm_rl/tb_logs/
+joint_angle_3d_palm_rl/figures/
+
